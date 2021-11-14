@@ -1,4 +1,4 @@
-# Practica3: Herramientas de Calidad del Producto Software y Documentación. SonarQube, Maven y Doxygen
+# Practica3: Herramientas de Calidad del Producto Software y Documentación.
 
 
 ## Asignatura: Laboratorio de desarrollo y herramientas
